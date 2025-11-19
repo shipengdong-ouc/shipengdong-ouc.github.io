@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Home | Zhaohui Chen, Ph.D.</title>
+<title>Home | Shipeng Dong, Ph.D.</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Zhaohui Chen">
 <meta name="generator" content="Jekyll v3.9.2">
 
 <link rel="stylesheet" href="/assets/css/frame.css">
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Zhaohui Chen, Ph.D.">
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Shipeng Dong, Ph.D.">
 <link rel="stylesheet" href="/assets/css/sidebar.css" media="screen and (min-width: 70em)">
 <aside style="display: none">
   <nav><a aria-label="Home" href="/" class="selected">
@@ -47,38 +47,7 @@
   <header><h1><a>Teams</a></h1></header>
   <hr />
 
-  <div class="photo-container">
-        <div class="photo-item">
-            <img src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-1.png" alt="Photo 1">
-            <p>Photo 1</p> 
-        </div>
-        <div class="photo-item">
-            <img src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-2.png" alt="Photo 2">
-            <p>Photo 2</p>
-        </div>
-        <div class="photo-item">
-            <img src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-3.png" alt="Photo 3">
-            <p>Photo 3</p>
-        </div>
-    </div>
-  
- <h2 id="Surface Buoys">Zhaohui Chen</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-1.png" /></p>
- <h2 id="Surface Buoys">Xin Ma</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-2.png" /></p>
-  <h2 id="Surface Buoys">Honghai Zhang</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-3.png" /></p>
-  <h2 id="Surface Buoys">Yanfeng Guan</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-4.png" /></p>
-  <h2 id="Surface Buoys">Guoqing Ren</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-5.png" /></p>
-  <h2 id="Surface Buoys">Zhaoqiang Wei</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-6.png" /></p>
-  <h2 id="Surface Buoys">Ruichen Zhu</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-7.png" /></p>
-  <h2 id="Surface Buoys">Yueqi Zhang</h2>
-<p><img width="20%" height="auto" src="https://kems.oss-cn-hangzhou.aliyuncs.com/team/pic2-8.png" /></p> 
-<hr />
+
 </article>
 
 
