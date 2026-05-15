@@ -19,7 +19,9 @@ body>article {
     max-width: 50em
 }
 
-aside {
+body>aside {
+    box-sizing: content-box;
+    max-width: none;
     display: block !important;
     position: fixed;
     overflow: auto;
@@ -37,6 +39,7 @@ article header h1 {
 }
 
 nav {
+    display: block;
     margin: 0 -2.25em
 }
 

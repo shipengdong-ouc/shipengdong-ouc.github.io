@@ -135,7 +135,16 @@ body>header,body>footer {
 }
 
 body>header,body>article,body>footer {
+    box-sizing: border-box;
+    max-width: 100%;
     padding: 1.5em
+}
+
+body>aside {
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 1.5em 1.5em 0;
+    width: 100%
 }
 
 article header {
@@ -148,11 +157,14 @@ article header h1 {
 }
 
 nav {
-    margin: .5em -1.2em
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em 1.2em;
+    margin: .5em 0
 }
 
 nav a {
-    margin: .5em 1.2em
+    margin: 0
 }
 
 .title {
